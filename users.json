@@ -1,8 +1,9 @@
 [
     {
+        
         "id":"1",
         "name": "Hamid",
-        "Age": "23",
+        "age": "23",
         "email": "sonchoy7254@gmail.com",
         "password": "123456",
         "website": "www.sonchoy.org"
@@ -10,7 +11,7 @@
     {
         "id":"2",
         "name": "Sonali",
-        "Age": "21",
+        "age": "21",
         "email": "sonali7254@gmail.com",
         "password": "123456",
         "website": "www.sonali.org"
@@ -18,7 +19,7 @@
     {
         "id":"3",
         "name": "Soudi",
-        "Age": "12",
+        "age": "12",
         "email": "soudi223@gmail.com",
         "password": "123456",
         "website": "www.soudi.org"
@@ -26,7 +27,7 @@
     {
         "id":"4",
         "name": "Mehedi",
-        "Age": "28",
+        "age": "28",
         "email": "mehedi@gmail.com",
         "password": "123456",
         "website": "www.Mehedi.org"
@@ -34,7 +35,7 @@
     {
         "id":"5",
         "name": "Misti",
-        "Age": "22",
+        "age": "22",
         "email": "misti@gmail.com",
         "password": "123456",
         "website": "www.misti.org"
