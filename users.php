@@ -6,6 +6,13 @@ function getUsers() {
  }
  function getUserById($Id) {
  
+    $users = getUsers();
+    foreach($users as $user) {
+        if($user['id'] == $Id) {
+            return $user;
+        }
+    }
+    return null;
  }
  function createuser($data) {
  
